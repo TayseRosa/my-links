@@ -1,6 +1,6 @@
-<h1 align="center"> Calculadora IMC 🖩  </h1>
+<h1 align="center"> Projeto My Links  </h1>
 
-<p align="center">Calculadora IMC desenvolvida com ReactJS </p>
+<p align="center">Projeto My Links - Lista de links para Bio do Instagram desenvolvido com React JS </p>
 
 <br>
 🚀 Desenvolvedora:
@@ -8,9 +8,9 @@
 Tayse Rosa
 </a>
 <br>
-🟢 Status do projeto: Concluído
+🟢 Status do projeto: Em desenvolvimento
 <br>
-🔗 Link do projeto em funcionamento: https://calculadora-imc-umber-five.vercel.app/
+🔗 Link do projeto em funcionamento: [em desenvolvimento]
 
 ---
 <p align="center">
@@ -20,15 +20,15 @@ Tayse Rosa
 
 ## 🚀 Tecnologias Utilizadas
 <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Javascript</li>
+    <li>React JS</li>
+    <li>React Router Dom</li>
 </ul>
 
 
 ## 🚀 Para você rodar o projeto
 ```
-Digite no prompt de comando: git clone https://github.com/TayseRosa/jogo-da-memoria.git
+Digite no prompt de comando: 
+git clone https://github.com/TayseRosa/my-links.git
 npm i
 npm start
 ```
