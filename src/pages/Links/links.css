@@ -1,6 +1,10 @@
 .links-container{
     max-width: 1120px;
+    height: 100vh;
     margin: 32px auto 0 auto;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .links-header{

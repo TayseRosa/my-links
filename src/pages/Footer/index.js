@@ -1,7 +1,8 @@
+import './footer.css'
 export default function Footer(){
     return(
-      <div>
-          <p style={{ color:'#fff' }}>Desenvolvido por Tayse Rosa </p>
-      </div>
+        <div className='footer'>
+            Desenvolvido por Tayse Rosa
+        </div>
     )
-  }
+}

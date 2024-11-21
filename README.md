@@ -22,6 +22,8 @@ Tayse Rosa
 <ul>
     <li>React JS</li>
     <li>React Router Dom</li>
+    <li>Axios</li>
+    <li>Api Bit.ly</li>
 </ul>
 
 
