@@ -1,6 +1,6 @@
-<h1 align="center"> Projeto My Links  </h1>
+<h1 align="center"> Projeto Encurtador de Links  </h1>
 
-<p align="center">Projeto My Links - Lista de links para Bio do Instagram desenvolvido com React JS </p>
+<p align="center">Projeto Encurtador de Links - desenvolvido com React JS e API Bit.ly </p>
 
 <br>
 🚀 Desenvolvedora:
